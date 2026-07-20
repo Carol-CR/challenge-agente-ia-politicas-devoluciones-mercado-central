@@ -51,4 +51,8 @@ El llm seleccionado pesa un poco mas de lo esperado por lo que puede llegar a us
 EVIDENCIA DEL DEPLOY en Streamlit Cloud
 Enlace publico de la aplicacion desplegada: https://challenge-agente-ia-politicas-devoluciones-mercado-central-d5j.streamlit.app/
 
+<img width="1250" height="597" alt="EvidenciaDeply1" src="https://github.com/user-attachments/assets/f5f188bd-0c8e-4a3b-b8eb-5a750497daa5" />
+
+<img width="1102" height="738" alt="EvidenciaDeploy2" src="https://github.com/user-attachments/assets/0f5711d3-ab74-474c-a638-55b717252428" />
+
 
