@@ -44,3 +44,11 @@ P3: ¿Cuánto tiempo tengo para devolver lácteos?
 R3: De acuerdo con la política de cambios de Mercado Central 24h (en la sección de categorías de productos, previa a la sección 4.4), para Lácteos y Derivados tienes un plazo de 48 horas desde la compra para realizar la devolución.
 Para que la solicitud sea válida, se debe cumplir con la siguiente condición:
 El producto debe presentarse con el sello de seguridad sin violar, salvo que el mal estado sea interno y comprobable.
+
+COMENTARIOS
+El llm seleccionado pesa un poco mas de lo esperado por lo que puede llegar a usar mas ram de la esperada, provocando que su acceso y reaccion sea un poco tardada
+
+EVIDENCIA DEL DEPLOY en Streamlit Cloud
+Enlace publico de la aplicacion desplegada: https://challenge-agente-ia-politicas-devoluciones-mercado-central-d5j.streamlit.app/
+
+
