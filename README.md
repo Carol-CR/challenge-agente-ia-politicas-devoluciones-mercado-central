@@ -56,3 +56,7 @@ Enlace publico de la aplicacion desplegada: https://challenge-agente-ia-politica
 <img width="1102" height="738" alt="EvidenciaDeploy2" src="https://github.com/user-attachments/assets/0f5711d3-ab74-474c-a638-55b717252428" />
 
 
+NOTA:
+Este proyecto forma parte como requisito para el programa de Oracle Next Education.
+
+
